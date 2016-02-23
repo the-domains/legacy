@@ -1,0 +1,28 @@
+name: Legacy
+favicon: null
+layout_spectrum: 0.7516618224326521
+typography_spectrum: 0.9893201463855803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03286857297644019
+  lightness: 0.8624309825245291
+  saturation: 0.1333110979758203
+  rhythmicContrast: 0.045647025341168046
+purpose: []
